@@ -1,1 +1,1 @@
-granatumx/gbox-py-genecentering
+granatumx/gbox-genecentering
